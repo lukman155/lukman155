@@ -61,11 +61,12 @@ I am a Front-End Web Developer <img src="https://media.giphy.com/media/WUlplcMpO
 ### :fire: My Stats :
 <div align='center'>
 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lukman155&layout=compact&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lukman155&theme=dark&hide_border=false&date_format=M%20j%5B%2C%20Y%5D&fire=1837DD&stroke=DDB123&currStreakNum=1CDD00&sideNums=47A6FF)](https://git.io/streak-stats)
+  
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lukman155&theme=dark&&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=1837DD&stroke=DDB123&currStreakNum=1CDD00&sideNums=47A6FF)](https://git.io/streak-stats)
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lukman155&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=lukman155&show_icons=true&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 ---
