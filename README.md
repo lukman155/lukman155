@@ -74,4 +74,5 @@ I am a Front-End Web Developer <img src="https://media.giphy.com/media/WUlplcMpO
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Test Post](https://dev.to/itszed0/test-post-490g)
 <!-- BLOG-POST-LIST:END -->
