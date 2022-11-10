@@ -6,7 +6,7 @@
    <h1>
   
 <div id="badges">
-  <a href="www.linkedin.com/in/lukmanbaba">
+  <a href="https://www.linkedin.com/in/lukmanbaba/">
     <img src="https://img.shields.io/badge/LinkedIn-darkblue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://lukman155.github.io/microverse_portfolio/">
@@ -37,13 +37,13 @@
 
 ### :man_technologist: About Me :
 I am a Front-End Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria.
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope: I’m working as a Software Engineer and contributing to frontend web applications.
 
 - :seedling: Exploring Technical Content Writing.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: In my free time, I solve problems on GeeksforGeeks, HackerRank and enjoy reading tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-darkblue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/lukmanbaba)   [![Linkedin Badge](https://img.shields.io/badge/-Gmail-yellow?style=flat&logo=Gmail&logoColor=red)](lukmanabdulkarim15@gmail.com)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-darkblue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lukmanbaba/)   [![Linkedin Badge](https://img.shields.io/badge/-Gmail-yellow?style=flat&logo=Gmail&logoColor=red)](https://lukmanabdulkarim15@gmail.com/)
 
 ---
 
